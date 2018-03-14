@@ -1,2 +1,2 @@
 # DevSecOps-blog
-DevOpsSec
+Blog about work in progress around DevSecOps
